@@ -2,7 +2,7 @@
 <HEAD>
 </HEAD>
 
-<BODY style="background-color: blue; TEXT:RED;">
+<BODY style="background-color:#003366; TEXT:#FF0000;">
 <BR>
 <CENTER>
 <H1> MICHELL </H1>
